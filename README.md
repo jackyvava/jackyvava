@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 
 <a href="https://github.com/jackyvava/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=jackyvava" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=jackyvava" /theme=radical >
 </a>
 <a href="https://github.com/jackyvava/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jackyvava&layout=compact&langs_count=8&card_width=320" />
