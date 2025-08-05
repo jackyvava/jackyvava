@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm **Jacky**, a prospective PhD student with a passion for **vortex dynamics**, **AI4Science**, and **computer graphics**. My research focuses on exploring how **artificial intelligence** can drive innovation in scientific discovery, particularly in fields related to fluid dynamics and computational methods.
+I'm **Jacky**, a  PhD student with a passion for **vortex dynamics**, **AI4Science**, and **computer graphics** in Zhejiang university. My research focuses on exploring how **artificial intelligence** can drive innovation in scientific discovery, particularly in fields related to fluid dynamics and computational methods.
 
 I'm deeply interested in the transformative power of AI and its potential to **change the world for the better**. Alongside my scientific pursuits, I enjoy immersing myself in **philosophy** and **history**, which helps broaden my perspective both in life and in research.
 
